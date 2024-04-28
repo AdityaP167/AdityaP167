@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**AdityaP167/AdityaP167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on honing my skills in web development, Data Analytics, and competitive programming challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🌱 I’m currently learning advanced algorithms and data structures to enhance my problem-solving abilities and efficiency in competitive programming.
+
+-👯 I’m looking to collaborate on exciting web development projects, software development initiatives, and competitive programming competitions.
+
+-💬 Ask me about web development frameworks, software development methodologies, databases or strategies for competitive programming.
+
+-📫 How to reach me: Drop me a message on my GitHub profile or connect with me on LinkedIn [here](https://www.linkedin.com/in/adityapalande).
+
+-😄 Pronouns: He/him
+
+-⚡ Fun fact: I think about coding problems all the day!
+
